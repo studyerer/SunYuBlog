@@ -1,2 +1,0 @@
-# SunYuBlog
-my personal blog
