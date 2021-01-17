@@ -14,7 +14,10 @@ import org.springframework.web.servlet.ModelAndView;
 
 import javax.servlet.http.HttpServletRequest;
 import java.util.Map;
-
+/**
+ * @author Sun
+ * @email 2429831566@qq.com
+ */
 @Controller
 public class ErrorPageController implements ErrorController {
 

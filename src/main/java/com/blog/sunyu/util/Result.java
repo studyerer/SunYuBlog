@@ -3,10 +3,8 @@ package com.blog.sunyu.util;
 import java.io.Serializable;
 
 /**
- * @author 13
- * @qq交流群 796794009
- * @email 2449207463@qq.com
- * @link http://13blog.site
+ * @author Sun
+ * @email 2429831566@qq.com
  */
 public class Result<T> implements Serializable {
     private static final long serialVersionUID = 1L;

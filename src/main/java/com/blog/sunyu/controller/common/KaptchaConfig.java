@@ -7,6 +7,10 @@ import org.springframework.stereotype.Component;
 
 import java.util.Properties;
 
+/**
+ * @author Sun
+ * @email 2429831566@qq.com
+ */
 @Component
 public class KaptchaConfig {
     @Bean
